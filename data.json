@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sample Document.pdf",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "type": "pdf"
+  },
+  {
+    "name": "Beautiful Landscape.jpg",
+    "url": "https://picsum.photos/200/300",
+    "type": "image"
+  },
+  {
+    "name": "Nature Photo.jpg",
+    "url": "https://picsum.photos/200/301",
+    "type": "image"
+  },
+  {
+    "name": "City View.png",
+    "url": "https://picsum.photos/200/302",
+    "type": "image"
+  },
+  {
+    "name": "Project Report.doc",
+    "url": "https://filesamples.com/samples/document/doc/sample3.doc",
+    "type": "doc"
+  },
+  {
+    "name": "Meeting Notes.txt",
+    "url": "https://www.w3.org/TR/PNG/iso_8859-1.txt",
+    "type": "txt"
+  },
+  {
+    "name": "Ocean Waves.jpg",
+    "url": "https://picsum.photos/200/303",
+    "type": "image"
+  },
+  {
+    "name": "Technical Specification.pdf",
+    "url": "https://www.africau.edu/images/default/sample.pdf",
+    "type": "pdf"
+  },
+  {
+    "name": "Mountain Sunset.jpg",
+    "url": "https://picsum.photos/200/304",
+    "type": "image"
+  },
+  {
+    "name": "User Guide.docx",
+    "url": "https://calibre-ebook.com/downloads/demos/demo.docx",
+    "type": "docx"
+  },
+  {
+    "name": "Abstract Art.jpg",
+    "url": "https://picsum.photos/200/305",
+    "type": "image"
+  },
+  {
+    "name": "Business Plan.pdf",
+    "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+    "type": "pdf"
+  },
+  {
+    "name": "Architecture.jpg",
+    "url": "https://picsum.photos/200/306",
+    "type": "image"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://www.ietf.org/rfc/rfc2616.txt",
+    "type": "txt"
+  },
+  {
+    "name": "Forest Path.jpg",
+    "url": "https://picsum.photos/200/307",
+    "type": "image"
+  }
+]
