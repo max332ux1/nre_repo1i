@@ -9,7 +9,7 @@
     "name": "Beautiful Landscape.jpg",
     "url": "https://picsum.photos/200/300",
     "type": "image",
-    "down": false
+    "down": true
   },
   {
     "name": "Nature Photo.jpg",
