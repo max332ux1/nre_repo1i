@@ -2,76 +2,92 @@
   {
     "name": "Sample Document.pdf",
     "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-    "type": "pdf"
+    "type": "pdf",
+    "down": false
   },
   {
     "name": "Beautiful Landscape.jpg",
     "url": "https://picsum.photos/200/300",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "Nature Photo.jpg",
     "url": "https://picsum.photos/200/301",
-    "type": "image"
+    "type": "image",
+    "down": false
+
   },
   {
     "name": "City View.png",
     "url": "https://picsum.photos/200/302",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "Project Report.doc",
     "url": "https://filesamples.com/samples/document/doc/sample3.doc",
-    "type": "doc"
+    "type": "doc",
+    "down": false
   },
   {
     "name": "Meeting Notes.txt",
     "url": "https://www.w3.org/TR/PNG/iso_8859-1.txt",
-    "type": "txt"
+    "type": "txt",
+    "down": false
   },
   {
     "name": "Ocean Waves.jpg",
     "url": "https://picsum.photos/200/303",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "Technical Specification.pdf",
     "url": "https://www.africau.edu/images/default/sample.pdf",
-    "type": "pdf"
+    "type": "pdf",
+    "down": false
   },
   {
     "name": "Mountain Sunset.jpg",
     "url": "https://picsum.photos/200/304",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "User Guide.docx",
     "url": "https://calibre-ebook.com/downloads/demos/demo.docx",
-    "type": "docx"
+    "type": "docx",
+    "down": false
   },
   {
     "name": "Abstract Art.jpg",
     "url": "https://picsum.photos/200/305",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "Business Plan.pdf",
     "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
-    "type": "pdf"
+    "type": "pdf",
+    "down": false
   },
   {
     "name": "Architecture.jpg",
     "url": "https://picsum.photos/200/306",
-    "type": "image"
+    "type": "image",
+    "down": false
   },
   {
     "name": "README.txt",
     "url": "https://www.ietf.org/rfc/rfc2616.txt",
-    "type": "txt"
+    "type": "txt",
+    "down": false
   },
   {
     "name": "Forest Path.jpg",
     "url": "https://picsum.photos/200/307",
-    "type": "image"
+    "type": "image",
+    "down": false
   }
 ]
